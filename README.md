@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ryan Chang 👋
 
-<!--
-**ryanjchang/ryanjchang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Student at Northeastern Univeristy
+## Computer Science and Mathematics
 
-Here are some ideas to get you started:
+I'm a passionate software engineer with experience building scalable applications and solving complex technical challenges. Currently seeking opportunities to contribute to innovative teams and impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+
+**Languages:** JavaScript, HTML/CSS, C#, Python, Java
+
+**Frontend:** React, Tailwind CSS
+
+**Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlab
+
+### 🚀 Featured Projects
+
+- **[Fish Fish](https://razzxx.itch.io/fish-fish-clicker)** - Clicker game I made in 2020 using Unity and C#. 
+
+### 💼 What I'm Working On
+
+- Oasis - Task manager app
+- Code for Community - nutritional data app
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Ryan Chang](https://www.linkedin.com/in/ryan-j-chang)
+- **Email:** ryanjchang@gmail.com
+- **Location:** Boston, MA
