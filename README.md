@@ -11,7 +11,7 @@ I'm a passionate software engineer with experience in software devlopment, robot
 
 **Frontend:** React, Tailwind CSS
 
-**Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlab
+**Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlib
 
 ### 🚀 Featured Projects
 
