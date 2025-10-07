@@ -3,7 +3,7 @@
 ## Student at Northeastern Univeristy
 ## Computer Science and Mathematics
 
-I'm a passionate software engineer with experience building scalable applications and solving complex technical challenges. Currently seeking opportunities to contribute to innovative teams and impactful projects.
+I'm a passionate software engineer with experience in software devlopment, robotics, and game development. Currently seeking opportunities to contribute to innovative teams and impactful projects.
 
 ### 🔧 Technologies & Tools
 
