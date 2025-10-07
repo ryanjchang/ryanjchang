@@ -1,7 +1,7 @@
 # Hi there, I'm Ryan Chang 👋
 
 ## Student at Northeastern Univeristy
-## Computer Science and Mathematics
+*Computer Science and Mathematics*
 
 I'm a passionate software engineer with experience in software devlopment, robotics, and game development. Currently seeking opportunities to contribute to innovative teams and impactful projects.
 
