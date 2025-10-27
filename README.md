@@ -14,7 +14,7 @@ I'm a passionate software engineer with experience in software devlopment, robot
 **Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlib
 
 ### 🚀 Featured Projects
-
+- **[Personal Website](https://ryan-chang.vercel.app/)** - Personal Website I made with React, Motion, and CSS
 - **[Fish Fish](https://razzxx.itch.io/fish-fish-clicker)** - Clicker game I made in 2020 using Unity and C#. 
 
 ### 💼 What I'm Working On
