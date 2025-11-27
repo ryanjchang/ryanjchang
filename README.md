@@ -14,14 +14,13 @@ I'm a passionate software engineer with experience in software devlopment, robot
 **Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlib
 
 ### 🚀 Featured Projects
+- **[Flow Board](https://flow-board-home.vercel.app/)** - Trello style app using Next.js and Tailwind CSS
 - **[Personal Website](https://ryan-chang.vercel.app/)** - Personal Website I made with React, Motion, and CSS
 - **[Mata](https://github.com/ryanjchang/Mata)** - Gamified sustainability mobile app using AI vision and point reward system
-- **[Fish Fish](https://razzxx.itch.io/fish-fish-clicker)** - Clicker game I made in 2020 using Unity and C#
 
 ### 💼 What I'm Working On
 
-- Oasis - Task manager app
-- Code for Community - nutritional data app
+- Facial recognition with OpenCV
 
 ### 📫 Let's Connect
 
