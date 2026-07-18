@@ -7,20 +7,12 @@ I'm a passionate software engineer with experience in software devlopment, robot
 
 ### 🔧 Technologies & Tools
 
-**Languages:** JavaScript, HTML/CSS, C#, Python, Java
+**Languages:** Python, Java, JavaScript, HTML, CSS, SQL, C#
 
-**Frontend:** React, Tailwind CSS
-
-**Tools & Platforms:** Git, Unity, Numpy, Pandas, Matplotlib
+**Tools & Platforms:** Git, React, Azure, AWS, Tensorflow, Sklearn, Numpy, Pandas, Matplotlib, Flask, Salesforce, Power BI, Excel
 
 ### 🚀 Featured Projects
-- **[Flow Board](https://flow-board-home.vercel.app/)** - Trello style app using Next.js and Tailwind CSS
-- **[Personal Website](https://ryan-chang.vercel.app/)** - Personal Website I made with React, Motion, and CSS
-- **[Mata](https://github.com/ryanjchang/Mata)** - Gamified sustainability mobile app using AI vision and point reward system
-
-### 💼 What I'm Working On
-
-- Facial recognition with OpenCV
+- **[Personal Website](https://ryan-chang.vercel.app/)** - Check out my latest projects on my portfolio website!
 
 ### 📫 Let's Connect
 
