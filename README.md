@@ -7,9 +7,11 @@ I'm a passionate software engineer with experience in software devlopment, robot
 
 ### 🔧 Technologies & Tools
 
-**Languages:** Python, Java, JavaScript, HTML, CSS, SQL, C#
-
-**Tools & Platforms:** Git, React, Azure, AWS, Tensorflow, Sklearn, Numpy, Pandas, Matplotlib, Flask, Salesforce, Power BI, Excel
+**Languages and Markup:** Python, Java, JavaScript, TypeScript, SQL, C#, R, HTML, CSS
+**Frameworks and Libraries:** React, Flask, Jinja, NumPy, Pandas, TensorFlow
+**Cloud Platforms:** Google Cloud Platform, Microsoft Azure, Amazon Web Services
+**Tools:** Git, Supabase, Firebase, Salesforce, Power BI, Excel, Unity
+**Interests:** Guitar, Violin, Drawing, Chess, Basketball, Tennis, Strength Training, Magic
 
 ### 🚀 Featured Projects
 - **[Personal Website](https://ryan-chang.vercel.app/)** - Check out my latest projects on my portfolio website!
